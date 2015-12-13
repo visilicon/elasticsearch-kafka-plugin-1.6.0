@@ -3,3 +3,8 @@ a plugin for sync between elasticsearch and kafka
 
 >elastic search version : 1.6.0   </br>
 >kafka version : 0.8.2.2    </br>
+
+## kafka format
+kafka message is a json string, you can can unserilized string, and get the related information
+`{
+}`
