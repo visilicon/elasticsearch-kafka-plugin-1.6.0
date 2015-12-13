@@ -23,3 +23,4 @@ kafka message is a json string, you can can unserilized string, and get the rela
 
 when you are using this format,you have posted __http://ip:port/{_type}/{_index}/{_id}__ document;   </br>
 `_action` support `insert`, `update`, `delete` action, you can __add__ , __update__ , __remove__ the document in the elasticsearch.  </br>
+you can modify the code, or you can redefine the kafka string format
